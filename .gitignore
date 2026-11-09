@@ -1,0 +1,9 @@
+result
+result-*
+*.qcow2
+.direnv/
+.env
+secrets/*.plain
+*.key
+__pycache__/
+*.pyc
